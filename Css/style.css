@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#D6E4E5;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+ .first-para{
+    color: #514b4b;
+    margin-bottom: 170px; 
+}
+h1{
+    color: #514b4b;
+}
+
+.top-cloud{
+    position: relative;
+    left: 245px;
+    padding-top: 145px;
+}
+.bottom-cloud{
+    position: absolute;
+    right:970px;
+
+}
+h3{
+    font-family: 'Caveat', cursive;
+
+}
+h2{
+    color: #001253;
+    font-family: 'Caveat', cursive;
+    font-size: 35px;
+    text-decoration:underline;
+    margin-bottom: 10px;
+
+}
+.middle-box{
+    font-size: 20px;
+}
+.bottom-container{
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    text-decoration: none;
+    color: #50577A;
+}
+.bottom-container a{
+    color: #3B185F;
+}
+.contact a{
+    text-decoration: none;
+}
+.bottom-container a{
+    text-decoration: none;
+    margin: 20px 0 10px 0;
+    padding: 10px;
+}
+.copyright{
+    font-size: 15px;
+}
+.img1{
+    height: 400px;
+    width: 400px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.img2{
+    height: 400px;
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.cloud3{
+    position: absolute;
+    left: 300px;
+    margin-top: 10px;
+}
+.cloud4{
+    position: absolute;
+    left: 100px;
+    margin-top: 50px;
+}
+.cloud5{
+    position: absolute;
+    right: 100px;
+    margin-top: 50px;
+}
+.profile{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.skills{
+    margin-top: 15px;
+}
+.cloud6{
+    position: absolute;
+    right: 50px;
+    margin-top: 200px;
+}
+.cloud7{
+    position: absolute;
+    right: 160px;
+    margin-top: 300px;
+}
+.contact-para{
+    margin: 0 0 20px 0;
+}
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.getInTouch{
+    text-decoration: none;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
